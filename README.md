@@ -2,8 +2,11 @@
 
 Features:
 -> Generate Python code from natural language prompts
+
 -> Execute generated code and display output dynamically
+
 -> Interactive Gradio UI for a seamless experience
+
 -> Utilizes LangChain + Hugging Face for intelligent code synthesis
 
 Tech Stack:
