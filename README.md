@@ -1,6 +1,7 @@
 (LangChain/HuggingFace) AI is an intelligent Python code generation and execution tool powered by LangChain and Hugging Face models. This project enables users to input a coding prompt in natural language and receive generated Python code, which is then executed in a controlled environment.
 
 Features:
+
 -> Generate Python code from natural language prompts
 
 -> Execute generated code and display output dynamically
@@ -10,11 +11,18 @@ Features:
 -> Utilizes LangChain + Hugging Face for intelligent code synthesis
 
 Tech Stack:
+
 Python 
+
 LangChain
+
 Hugging Face Hub
+
 Gradio (for UI)
+
 Subprocess & Tempfile (for secure execution)
+
+
 
 
 
